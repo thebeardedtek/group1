@@ -1,0 +1,60 @@
+{
+
+    "data": [
+        {
+            "name":"The Souls of Black Folk",
+            "author":"W.E.B. DuBois",
+            "onSale": false,
+            "price":"9.99",
+            "excerpt":"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia ",
+            "bookCover":"img/product/other1.jpg",
+            "productId": 100
+        },
+        {
+            "name":"The Autobiography of Malcolm X",
+            "author":"Alex Haley",
+            "onSale": false,
+            "price":"9.99",
+            "excerpt":"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia ",
+            "bookCover":"img/product/other2.jpg",
+            "productId": 101
+        },
+        {
+            "name":"I Am Your Sister",
+            "author":"Audre Lorde",
+            "onSale": false,
+            "price":"9.99",
+            "excerpt":"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia ",
+            "bookCover":"img/product/other3.jpg",
+            "productId": 102
+        },
+        {
+            "name":"I Know Why The Caged Bird Sings",
+            "author":"Maya Angelou",
+            "onSale": false,
+            "price":"9.99",
+            "excerpt":"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia ",
+            "bookCover":"img/product/other4.jpg",
+            "productId": 103
+        },
+        {
+            "name":"Conversations with James Baldwin",
+            "author":"Fred L. Standley",
+            "onSale": false,
+            "price":"9.99",
+            "excerpt":"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia ",
+            "bookCover":"img/product/other5.jpg",
+            "productId": 104
+        },
+        {
+            "name":"Home",
+            "author":"Toni Morison",
+            "onSale": false,
+            "price":"9.99",
+            "excerpt":"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia ",
+            "bookCover":"img/product/other6.jpg",
+            "productId": 105
+        }
+    ]
+
+}
